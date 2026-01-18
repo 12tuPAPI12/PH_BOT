@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 import asyncio
 from datetime import datetime, timedelta
 
-TOKEN = 'My Super Secret Token'
+TOKEN = ''
 BASE_URLS = [
     'https://www.pornhub.com/video?o=tr&t=all',
     'https://www.pornhub.com/video?o=tr',
